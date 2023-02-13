@@ -3,7 +3,7 @@
 <ul>
   <li> 👋 I usually go by Mr.Rari online and use the Rari Corporation as a front for my personal projects.</li>
   <li> 👀 I code now after an on/off relationship with SmallBasic, HTML & CSS, Python and JavaScript.</li>
-  <li> 🌱 My main focus now is ReactJS since I love the frontend specialization and JavaScript.</li>
+  <li> 🌱 My main focus now is ReactJS since I love the frontend specialization, and JavaScript.</li>
  </ul>
  
  I've recently discovered Vercel ❤️
