@@ -7,6 +7,11 @@
  </ul>
  
  I've recently discovered Vercel ❤️
+ 
+ My goals for 2023?
+ <ul>Learn TypeScript</ul>
+ <ul>Improve ReactJS knowledge</ul>
+ <ul>Get Linux certified</ul>
 <!---
 MrRari14/MrRari14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
