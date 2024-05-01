@@ -8,3 +8,26 @@
  </ul>
  
  I've discovered Vercel ❤️ a while back and am in love with it ever since. Most of my projects are hosted there, including <a href="https://bdki-portfolio.vercel.app">my portfolio!</a>
+
+ <h2>Deployed projects projects</h2>
+ <ul>
+   <li>
+     <a href="https://invoice-generator-ebon-alpha.vercel.app/" >Invoice generator</a>
+   </li>
+   
+   <li>
+     <a href="bdki-football-cart-echhwwyle-bernardukiii.vercel.app" >Football cart</a>
+   </li>
+   
+   <li>
+     <a href="quizeroo-lsrxj3mdt-mrrari14.vercel.app" >Quizeroo</a>
+   </li>
+   
+   <li>
+     <a href="calc-ur-date-9tghon9s8-mrrari14.vercel.app" >Calc-ur-date</a>
+   </li>
+   
+   <li>
+     <a href="luogdon-portfolio-ev7yum7qz-bernardukiii.vercel.app" >Photography portfolio</a>
+   </li>
+ </ul>
