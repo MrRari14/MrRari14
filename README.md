@@ -16,7 +16,7 @@
    </li>
    
    <li>
-     <a href="bdki-football-cart-echhwwyle-bernardukiii.vercel.app" >Football cart</a>
+     <a href="https://bdki-football-cart-echhwwyle-bernardukiii.vercel.app/" >Football cart</a>
    </li>
    
    <li>
