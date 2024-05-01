@@ -12,22 +12,22 @@
  <h2>Deployed projects projects</h2>
  <ul>
    <li>
-     <a href="https://invoice-generator-ebon-alpha.vercel.app/" >Invoice generator</a>
+     <a href="https://invoice-generator-ebon-alpha.vercel.app/" target="_blank" >Invoice generator</a>
    </li>
    
    <li>
-     <a href="https://bdki-football-cart-echhwwyle-bernardukiii.vercel.app/" >Football cart</a>
+     <a href="https://bdki-football-cart-echhwwyle-bernardukiii.vercel.app/" target="_blank" >Football cart</a>
    </li>
    
    <li>
-     <a href="quizeroo-lsrxj3mdt-mrrari14.vercel.app" >Quizeroo</a>
+     <a href="https://quizeroo-lsrxj3mdt-mrrari14.vercel.app/" target="_blank" >Quizeroo</a>
    </li>
    
    <li>
-     <a href="calc-ur-date-9tghon9s8-mrrari14.vercel.app" >Calc-ur-date</a>
+     <a href="https://calc-ur-date-9tghon9s8-mrrari14.vercel.app/" target="_blank" >Calc-ur-date</a>
    </li>
    
    <li>
-     <a href="luogdon-portfolio-ev7yum7qz-bernardukiii.vercel.app" >Photography portfolio</a>
+     <a href="https://luogdon.de/" target="_blank" >Photography portfolio</a>
    </li>
  </ul>
