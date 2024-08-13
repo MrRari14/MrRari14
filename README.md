@@ -12,7 +12,7 @@
  <h2>Deployed projects projects</h2>
  <ul>
    <li>
-     <a href="https://simpsons-quotes-translator.vercel.app/" target="_blank" >Invoice generator</a>
+     <a href="https://simpsons-quotes-translator.vercel.app/" target="_blank" >Frases-meme Los Simpsons</a>
    </li>
    
    <li>
