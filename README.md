@@ -12,6 +12,10 @@
  <h2>Deployed projects projects</h2>
  <ul>
    <li>
+     <a href="https://simpsons-quotes-translator.vercel.app/" target="_blank" >Invoice generator</a>
+   </li>
+   
+   <li>
      <a href="https://invoice-generator-ebon-alpha.vercel.app/" target="_blank" >Invoice generator</a>
    </li>
    
